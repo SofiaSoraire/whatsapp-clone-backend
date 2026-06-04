@@ -1,0 +1,1294 @@
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T22:52:04.649Z"}
+{"level":"error","message":"MongoDB error: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:206:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:766:34)\n    at Mongoose.connect (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\index.js:416:15)\n    at file:///C:/Users/Sofi/Desktop/Python/DEPCSUITE%20CURSO/whatsapp-clone/backend/server.js:52:10\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-31T22:52:04.661Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T22:52:04.662Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T22:52:30.147Z"}
+{"level":"error","message":"MongoDB error: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:206:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:766:34)\n    at Mongoose.connect (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\index.js:416:15)\n    at file:///C:/Users/Sofi/Desktop/Python/DEPCSUITE%20CURSO/whatsapp-clone/backend/server.js:52:10\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-31T22:52:30.157Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T22:52:30.158Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T22:59:44.710Z"}
+{"level":"error","message":"MongoDB error: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:206:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:766:34)\n    at Mongoose.connect (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\index.js:416:15)\n    at file:///C:/Users/Sofi/Desktop/Python/DEPCSUITE%20CURSO/whatsapp-clone/backend/server.js:52:10\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-31T22:59:44.720Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T22:59:44.721Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T22:59:58.223Z"}
+{"level":"error","message":"MongoDB error: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:206:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:766:34)\n    at Mongoose.connect (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\index.js:416:15)\n    at file:///C:/Users/Sofi/Desktop/Python/DEPCSUITE%20CURSO/whatsapp-clone/backend/server.js:52:10\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-31T22:59:58.232Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T22:59:58.233Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T23:04:02.914Z"}
+{"level":"error","message":"MongoDB error: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:206:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:766:34)\n    at Mongoose.connect (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\index.js:416:15)\n    at file:///C:/Users/Sofi/Desktop/Python/DEPCSUITE%20CURSO/whatsapp-clone/backend/server.js:52:10\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-31T23:04:02.923Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T23:04:02.924Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T23:07:06.724Z"}
+{"level":"error","message":"MongoDB error: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:206:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:766:34)\n    at Mongoose.connect (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\index.js:416:15)\n    at file:///C:/Users/Sofi/Desktop/Python/DEPCSUITE%20CURSO/whatsapp-clone/backend/server.js:57:10\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-31T23:07:06.734Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T23:07:06.735Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T23:07:28.337Z"}
+{"level":"error","message":"MongoDB error: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:206:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:766:34)\n    at Mongoose.connect (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\index.js:416:15)\n    at file:///C:/Users/Sofi/Desktop/Python/DEPCSUITE%20CURSO/whatsapp-clone/backend/server.js:57:10\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-31T23:07:28.348Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T23:07:28.349Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T23:11:52.861Z"}
+{"level":"error","message":"MongoDB error: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:206:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:766:34)\n    at Mongoose.connect (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\index.js:416:15)\n    at file:///C:/Users/Sofi/Desktop/Python/DEPCSUITE%20CURSO/whatsapp-clone/backend/server.js:59:10\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-31T23:11:52.872Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T23:11:52.873Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T23:12:05.837Z"}
+{"level":"error","message":"MongoDB error: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:206:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:766:34)\n    at Mongoose.connect (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\index.js:416:15)\n    at file:///C:/Users/Sofi/Desktop/Python/DEPCSUITE%20CURSO/whatsapp-clone/backend/server.js:59:10\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-31T23:12:05.850Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T23:12:05.851Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T23:15:12.674Z"}
+{"level":"error","message":"MongoDB error: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:206:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:766:34)\n    at Mongoose.connect (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\index.js:416:15)\n    at file:///C:/Users/Sofi/Desktop/Python/DEPCSUITE%20CURSO/whatsapp-clone/backend/server.js:60:10\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-31T23:15:12.688Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T23:15:12.690Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T23:15:29.371Z"}
+{"level":"error","message":"MongoDB error: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:206:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:766:34)\n    at Mongoose.connect (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\index.js:416:15)\n    at file:///C:/Users/Sofi/Desktop/Python/DEPCSUITE%20CURSO/whatsapp-clone/backend/server.js:60:10\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-31T23:15:29.381Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T23:15:29.382Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T23:20:05.408Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T23:20:05.427Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-05-31T23:20:06.217Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-05-31T23:39:17.542Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-05-31T23:39:17.563Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-05-31T23:39:18.286Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T00:07:21.905Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-01T00:07:21.927Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-06-01T00:07:22.749Z"}
+{"level":"info","message":"Usuario registrado y auto-verificado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:13:15.697Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:13:27.159Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:13:28.929Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:14:06.876Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:14:09.261Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:19:06.879Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:27:07.372Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:27:08.779Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:27:09.181Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:28:22.560Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:28:23.781Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:29:37.906Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:33:36.829Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T00:36:54.277Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T00:39:55.292Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-01T00:39:55.311Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-06-01T00:39:56.118Z"}
+{"level":"info","message":"Token de restablecimiento para sofiasoraire13@gmail.com: 5224a310a9a7612c4432877de813256a17031bbd34d842cb4f7da229dbc9cdbb","timestamp":"2026-06-01T01:01:00.806Z"}
+{"level":"info","message":"Contraseña restablecida para sofiasoraire13@gmail.com","timestamp":"2026-06-01T01:01:16.036Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T01:01:26.660Z"}
+{"level":"info","message":"Socket connected: 6a1cce9bccdbdbd9c05b24d7","timestamp":"2026-06-01T01:01:26.683Z"}
+{"level":"info","message":"Socket disconnected: 6a1cce9bccdbdbd9c05b24d7","timestamp":"2026-06-01T01:02:01.418Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T01:06:06.471Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-01T01:06:06.491Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-06-01T01:06:07.301Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T01:07:29.039Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-01T01:07:29.066Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-06-01T01:07:30.178Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T01:07:39.978Z"}
+{"level":"info","message":"Socket conectado: 6a1cce9bccdbdbd9c05b24d7","timestamp":"2026-06-01T01:07:40.011Z"}
+{"level":"info","message":"Socket desconectado: 6a1cce9bccdbdbd9c05b24d7","timestamp":"2026-06-01T01:07:52.106Z"}
+{"level":"info","message":"Usuario logueado: sofiasoraire13@gmail.com","timestamp":"2026-06-01T01:07:58.255Z"}
+{"level":"info","message":"Socket conectado: 6a1cce9bccdbdbd9c05b24d7","timestamp":"2026-06-01T01:07:58.273Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T01:17:09.333Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-01T01:17:09.358Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-06-01T01:17:10.135Z"}
+{"level":"info","message":"Socket conectado: 6a1cce9bccdbdbd9c05b24d7","timestamp":"2026-06-01T01:17:10.383Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T11:39:57.639Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T11:39:57.671Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T11:39:57.671Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T11:39:57.672Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-01T11:39:58.718Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T12:15:16.096Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T12:15:16.118Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T12:15:16.120Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T12:15:16.121Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-01T12:15:16.975Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T12:15:49.016Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T12:15:49.035Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T12:15:49.035Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T12:15:49.035Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-01T12:15:49.791Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T12:16:27.386Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T12:16:27.405Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T12:16:27.406Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T12:16:27.406Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-01T12:16:28.249Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T12:19:20.344Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T12:19:20.364Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T12:19:20.364Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T12:19:20.364Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-01T12:19:21.387Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:14:22.093Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:14:22.116Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:14:22.117Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:14:22.117Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:14:40.561Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:14:40.593Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:14:40.594Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:14:40.594Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T14:15:10.672Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:17:16.415Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:17:16.450Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:17:16.450Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:17:16.451Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T14:17:48.023Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:20:59.463Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:20:59.484Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:20:59.485Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:20:59.485Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:21:12.870Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:21:12.898Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:21:12.899Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:21:12.899Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:21:28.328Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:21:28.358Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:21:28.359Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:21:28.359Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T14:21:58.422Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:23:10.234Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:23:10.254Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:23:10.254Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:23:10.255Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:23:25.669Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:23:25.700Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:23:25.701Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:23:25.701Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:23:41.768Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:23:41.788Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:23:41.788Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:23:41.788Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T14:24:12.038Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:29:25.203Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:29:25.224Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:29:25.224Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:29:25.224Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:29:45.721Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:29:45.742Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:29:45.742Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:29:45.742Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:30:04.678Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:30:04.698Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:30:04.699Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:30:04.699Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:30:16.211Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:30:16.232Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:30:16.232Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:30:16.233Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T14:30:46.279Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:32:29.141Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:32:29.158Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:32:29.158Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:32:29.159Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:32:40.386Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:32:40.408Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:32:40.409Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:32:40.409Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T14:33:10.505Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:35:06.177Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:35:06.196Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:35:06.196Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:35:06.197Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:35:13.363Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T14:35:13.382Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T14:35:13.382Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T14:35:13.383Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T14:35:43.431Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T14:49:22.825Z"}
+{"level":"info","message":"🚀 Server running on port 5000","timestamp":"2026-06-01T14:49:22.853Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5000/api","timestamp":"2026-06-01T14:49:22.853Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5000/api-docs","timestamp":"2026-06-01T14:49:22.854Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-01T14:49:47.078Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T14:49:53.699Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:10:50.799Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:10:50.828Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:10:50.829Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:10:50.829Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T15:11:21.874Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:16:54.060Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:16:54.092Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:16:54.093Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:16:54.093Z"}
+{"level":"info","message":"GET /","timestamp":"2026-06-01T15:17:19.109Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T15:17:25.698Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:19:38.340Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:19:38.366Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:19:38.366Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:19:38.367Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T15:20:09.956Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:25:01.733Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:25:01.772Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:25:01.772Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:25:01.772Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T15:25:32.995Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:29:27.696Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:29:27.723Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:29:27.723Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:29:27.724Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T15:29:58.896Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:34:34.519Z"}
+{"level":"info","message":"🚀 Server running on port 5000","timestamp":"2026-06-01T15:34:34.551Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5000/api","timestamp":"2026-06-01T15:34:34.551Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5000/api-docs","timestamp":"2026-06-01T15:34:34.551Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-01T15:34:45.103Z"}
+{"level":"error","message":"Error en login: Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:185:23)\n    at listOnTimeout (node:internal/timers:605:17)\n    at process.processTimers (node:internal/timers:541:7)","timestamp":"2026-06-01T15:34:55.122Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T15:35:05.435Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:37:31.764Z"}
+{"level":"info","message":"🚀 Server running on port 5000","timestamp":"2026-06-01T15:37:31.785Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5000/api","timestamp":"2026-06-01T15:37:31.785Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5000/api-docs","timestamp":"2026-06-01T15:37:31.786Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T15:38:02.879Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:38:03.901Z"}
+{"level":"info","message":"🚀 Server running on port 5000","timestamp":"2026-06-01T15:38:03.922Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5000/api","timestamp":"2026-06-01T15:38:03.922Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5000/api-docs","timestamp":"2026-06-01T15:38:03.922Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:38:21.023Z"}
+{"level":"info","message":"🚀 Server running on port 5000","timestamp":"2026-06-01T15:38:21.043Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5000/api","timestamp":"2026-06-01T15:38:21.044Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5000/api-docs","timestamp":"2026-06-01T15:38:21.044Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-01T15:38:33.587Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T15:38:51.115Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:39:16.180Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:39:16.212Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:39:16.212Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:39:16.213Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T15:39:47.005Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:42:17.594Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:42:17.613Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:42:17.613Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:42:17.613Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T15:42:48.960Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:45:03.635Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:45:03.655Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:45:03.655Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:45:03.655Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:45:22.385Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:45:22.404Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:45:22.404Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:45:22.404Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:45:40.906Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:45:40.932Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:45:40.932Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:45:40.933Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:45:52.967Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:45:52.990Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:45:52.991Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:45:52.991Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:46:10.116Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:46:10.136Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:46:10.136Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:46:10.136Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:46:25.552Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:46:25.575Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:46:25.575Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:46:25.575Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:46:41.675Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:46:41.694Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:46:41.695Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:46:41.695Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T15:47:11.886Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:50:49.972Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:50:49.999Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:50:50.000Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:50:50.000Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-01T15:51:01.291Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:52:20.347Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:52:20.369Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:52:20.369Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:52:20.369Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-01T15:52:27.744Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T15:57:43.276Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T15:57:43.294Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T15:57:43.294Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T15:57:43.294Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-01T15:58:02.529Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T16:02:09.896Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T16:02:09.923Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T16:02:09.924Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T16:02:09.924Z"}
+{"level":"error","message":"❌ MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-aasks8-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\Sofi\\Desktop\\Python\\DEPCSUITE CURSO\\whatsapp-clone\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-01T16:02:40.925Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-01T16:48:48.454Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-01T16:48:48.471Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-01T16:48:48.471Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-01T16:48:48.472Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T11:45:36.437Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T11:45:36.468Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T11:45:36.468Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T11:45:36.468Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T11:45:37.504Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02T11:46:55.423Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-02T11:46:55.552Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-02T11:46:55.570Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T11:58:26.618Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T11:58:26.638Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T11:58:26.639Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T11:58:26.639Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T11:58:27.857Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2026-06-02T11:59:21.181Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T12:03:50.128Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T12:03:50.156Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T12:03:50.157Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T12:03:50.157Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T12:03:50.176Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2026-06-02T12:04:37.923Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T12:50:38.004Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T12:50:38.027Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T12:50:38.027Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T12:50:38.028Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T12:50:38.043Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T12:54:59.273Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T12:54:59.300Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T12:54:59.300Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T12:54:59.301Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T12:54:59.317Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T12:55:30.018Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T12:55:30.040Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T12:55:30.040Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T12:55:30.041Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T12:55:30.057Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02T12:55:56.559Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02T12:56:06.745Z"}
+{"level":"info","message":"POST /api/auth/forgot-password","timestamp":"2026-06-02T12:56:19.137Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2026-06-02T12:56:46.768Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02T12:57:06.177Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2026-06-02T12:57:49.752Z"}
+{"level":"info","message":"Usuario registrado y auto-verificado: lourdessoraire13@gmail.com","timestamp":"2026-06-02T12:57:49.831Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02T12:58:00.048Z"}
+{"level":"info","message":"User logged in: lourdessoraire13@gmail.com","timestamp":"2026-06-02T12:58:00.116Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-02T12:58:00.135Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T13:47:00.905Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T13:47:00.928Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T13:47:00.928Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T13:47:00.928Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T13:47:00.943Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T13:51:28.325Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T13:51:28.352Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T13:51:28.352Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T13:51:28.353Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T13:51:28.366Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02T13:51:45.719Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02T13:52:04.886Z"}
+{"level":"info","message":"User logged in: lourdessoraire13@gmail.com","timestamp":"2026-06-02T13:52:04.950Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-02T13:52:04.959Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T14:08:22.368Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T14:08:22.389Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T14:08:22.389Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T14:08:22.389Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T14:08:22.403Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02T14:08:49.136Z"}
+{"level":"info","message":"User logged in: lourdessoraire13@gmail.com","timestamp":"2026-06-02T14:08:49.215Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-02T14:08:49.225Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T14:12:46.816Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T14:12:46.840Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T14:12:46.841Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T14:12:46.841Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T14:12:46.853Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2026-06-02T14:13:11.524Z"}
+{"level":"info","message":"Usuario registrado y auto-verificado: sofiasoraire13@gmail.com","timestamp":"2026-06-02T14:13:11.612Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02T14:13:33.807Z"}
+{"level":"info","message":"User logged in: lourdessoraire13@gmail.com","timestamp":"2026-06-02T14:13:33.871Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-02T14:13:33.885Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T14:15:25.686Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T14:15:25.705Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T14:15:25.706Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T14:15:25.706Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T14:15:25.718Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T14:31:12.035Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T14:31:12.055Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T14:31:12.056Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T14:31:12.056Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T14:31:12.069Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02T14:33:46.356Z"}
+{"level":"info","message":"User logged in: lourdessoraire13@gmail.com","timestamp":"2026-06-02T14:33:46.433Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-02T14:33:46.448Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T16:23:31.902Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T16:23:31.922Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T16:23:31.922Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T16:23:31.922Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T16:23:31.936Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T16:25:01.844Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T16:25:01.867Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T16:25:01.867Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T16:25:01.868Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T16:25:01.879Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-02T16:25:15.559Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-02T16:25:15.582Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-02T16:25:15.583Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-02T16:25:15.583Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-02T16:25:15.596Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02T16:25:50.384Z"}
+{"level":"info","message":"User logged in: lourdessoraire13@gmail.com","timestamp":"2026-06-02T16:25:50.461Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-02T16:25:50.474Z"}
+{"level":"info","message":"Socket conectado: 6a1ed34d52c3e9e13cd71d41","timestamp":"2026-06-02T16:25:50.494Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-02T16:25:50.495Z"}
+{"level":"info","message":"GET /api/users/search?q=sofi","timestamp":"2026-06-02T16:25:56.019Z"}
+{"level":"info","message":"POST /api/chats/direct","timestamp":"2026-06-02T16:25:56.039Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T12:07:01.084Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T12:07:01.113Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T12:07:01.113Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T12:07:01.113Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T12:07:01.137Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T12:30:53.606Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T12:30:53.625Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T12:30:53.625Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T12:30:53.626Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T12:30:53.638Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T12:31:05.596Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T12:31:05.618Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T12:31:05.618Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T12:31:05.619Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T12:31:05.633Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T12:47:29.888Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T12:47:29.986Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T12:47:29.999Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T12:47:30.017Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T12:47:30.024Z"}
+{"level":"info","message":"GET /api/users/search?q=sofi","timestamp":"2026-06-03T12:47:36.223Z"}
+{"level":"info","message":"GET /api/users/search?q=sofia","timestamp":"2026-06-03T12:47:42.261Z"}
+{"level":"info","message":"GET /api/users/search?q=lourdes","timestamp":"2026-06-03T12:47:49.860Z"}
+{"level":"info","message":"POST /api/chats/direct","timestamp":"2026-06-03T12:47:49.871Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:47:49.894Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T12:47:49.897Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:47:49.899Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:47:49.902Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T12:47:49.906Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:47:49.918Z"}
+{"level":"info","message":"Mensaje enviado a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:47:59.697Z"}
+{"level":"info","message":"Mensaje enviado a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:48:04.406Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T12:48:16.548Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T12:55:03.571Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T12:55:03.657Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T12:55:03.662Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T12:55:03.670Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T12:55:09.854Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T12:55:09.859Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T12:55:09.884Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T12:55:10.037Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T12:55:14.745Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T12:55:14.808Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T12:55:14.813Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T12:55:14.817Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T12:55:14.824Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T12:55:14.830Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:55:16.267Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:55:16.271Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T12:55:16.273Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:55:16.275Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T12:55:16.282Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:55:16.284Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T12:56:06.575Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T12:56:06.594Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T12:56:06.595Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T12:56:06.595Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T12:56:06.607Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T12:56:08.711Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T12:56:12.970Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T12:56:13.666Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T12:56:13.679Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T12:56:13.690Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T12:56:18.686Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T12:56:18.757Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T12:56:18.762Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T12:56:18.767Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T12:56:18.771Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T12:56:18.786Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:56:21.860Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:56:21.861Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T12:56:21.869Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:56:21.872Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T12:56:21.881Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T12:56:21.883Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T12:56:24.881Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T12:56:24.887Z"}
+{"level":"info","message":"GET /api/users/search?q=s","timestamp":"2026-06-03T12:56:33.353Z"}
+{"level":"info","message":"GET /api/users/search?q=m","timestamp":"2026-06-03T12:56:53.683Z"}
+{"level":"info","message":"GET /api/users/search?q=ma","timestamp":"2026-06-03T12:56:53.794Z"}
+{"level":"info","message":"POST /api/groups","timestamp":"2026-06-03T12:56:59.324Z"}
+{"level":"info","message":"POST /api/groups","timestamp":"2026-06-03T12:57:05.219Z"}
+{"level":"info","message":"POST /api/groups","timestamp":"2026-06-03T12:57:23.973Z"}
+{"level":"info","message":"POST /api/groups","timestamp":"2026-06-03T12:58:25.044Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T13:03:17.782Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T13:03:17.804Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T13:03:17.804Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T13:03:17.804Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T13:03:17.815Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:03:18.707Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:03:24.266Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T13:03:24.898Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T13:03:24.913Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:03:24.933Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T13:03:29.248Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T13:03:29.318Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:03:29.323Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:03:29.328Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:03:29.332Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:03:29.347Z"}
+{"level":"info","message":"GET /api/users/search?q=d","timestamp":"2026-06-03T13:03:32.555Z"}
+{"level":"info","message":"GET /api/users/search?q=m","timestamp":"2026-06-03T13:03:50.704Z"}
+{"level":"info","message":"GET /api/users/search?q=ma","timestamp":"2026-06-03T13:03:50.853Z"}
+{"level":"info","message":"POST /api/groups","timestamp":"2026-06-03T13:03:58.749Z"}
+{"level":"info","message":"POST /api/groups","timestamp":"2026-06-03T13:04:02.850Z"}
+{"level":"info","message":"POST /api/groups","timestamp":"2026-06-03T13:04:06.340Z"}
+{"level":"info","message":"POST /api/chats/direct","timestamp":"2026-06-03T13:04:09.779Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T13:04:09.788Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T13:04:09.789Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T13:04:09.792Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T13:04:09.794Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T13:04:09.803Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T13:04:09.805Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:04:13.159Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:04:13.164Z"}
+{"level":"info","message":"GET /api/groups","timestamp":"2026-06-03T13:04:29.673Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T13:09:07.496Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T13:09:07.517Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T13:09:07.517Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T13:09:07.517Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T13:09:07.529Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:09:08.705Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T13:09:16.247Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T13:09:16.268Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T13:09:16.269Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T13:09:16.269Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T13:09:16.281Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:09:16.478Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:09:23.755Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T13:09:24.472Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T13:09:24.485Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:09:24.500Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:09:24.503Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:09:24.508Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T13:09:31.504Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T13:09:31.578Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:09:31.586Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:09:31.595Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:09:31.602Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:09:31.622Z"}
+{"level":"info","message":"POST /api/groups","timestamp":"2026-06-03T13:10:46.608Z"}
+{"level":"info","message":"GET /api/users/search?q=m","timestamp":"2026-06-03T13:17:53.755Z"}
+{"level":"info","message":"POST /api/groups","timestamp":"2026-06-03T13:18:06.620Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T13:20:23.192Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T13:20:23.214Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T13:20:23.214Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T13:20:23.214Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T13:20:23.226Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:20:23.714Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T13:20:32.145Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T13:20:32.169Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T13:20:32.170Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T13:20:32.170Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T13:20:32.184Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:20:32.436Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:22:32.668Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T13:22:33.409Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T13:22:33.429Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:22:33.444Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T13:22:37.945Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T13:22:38.021Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:22:38.026Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:22:38.035Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:22:38.039Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:22:38.054Z"}
+{"level":"info","message":"GET /api/users/search?q=m","timestamp":"2026-06-03T13:22:49.662Z"}
+{"level":"info","message":"POST /api/groups","timestamp":"2026-06-03T13:22:53.439Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T13:22:53.454Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T13:22:53.456Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T13:22:53.457Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T13:22:53.461Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T13:22:53.465Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T13:22:53.471Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T13:22:59.071Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T13:22:59.072Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T13:22:59.078Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T13:22:59.081Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T13:22:59.085Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T13:22:59.090Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T13:29:57.663Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T13:29:57.686Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T13:29:57.687Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T13:29:57.687Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T13:29:57.700Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:29:58.783Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T13:35:00.689Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T13:35:00.710Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T13:35:00.710Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T13:35:00.710Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T13:35:00.721Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:35:03.728Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:35:06.921Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T13:35:07.571Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T13:35:07.583Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:35:07.596Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T13:35:11.909Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T13:35:11.980Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:35:11.987Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:35:11.993Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T13:35:11.998Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:35:12.014Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T13:35:15.091Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T13:35:15.093Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T13:35:15.099Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T13:35:15.101Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T13:35:15.108Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T13:35:15.112Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:35:19.070Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:35:19.079Z"}
+{"level":"info","message":"GET /api/users/search?q=d","timestamp":"2026-06-03T13:35:25.639Z"}
+{"level":"info","message":"GET /api/users/search?q=m","timestamp":"2026-06-03T13:35:32.661Z"}
+{"level":"info","message":"POST /api/groups","timestamp":"2026-06-03T13:35:36.353Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202da8e0929325f88615c7","timestamp":"2026-06-03T13:35:36.366Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202da8e0929325f88615c7","timestamp":"2026-06-03T13:35:36.367Z"}
+{"level":"info","message":"GET /api/chats/6a202da8e0929325f88615c7/messages","timestamp":"2026-06-03T13:35:36.370Z"}
+{"level":"info","message":"GET /api/chats/6a202da8e0929325f88615c7","timestamp":"2026-06-03T13:35:36.374Z"}
+{"level":"info","message":"GET /api/chats/6a202da8e0929325f88615c7/messages","timestamp":"2026-06-03T13:35:36.378Z"}
+{"level":"info","message":"GET /api/chats/6a202da8e0929325f88615c7","timestamp":"2026-06-03T13:35:36.384Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202da8e0929325f88615c7","timestamp":"2026-06-03T13:35:42.818Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202da8e0929325f88615c7","timestamp":"2026-06-03T13:35:42.819Z"}
+{"level":"info","message":"GET /api/chats/6a202da8e0929325f88615c7/messages","timestamp":"2026-06-03T13:35:42.825Z"}
+{"level":"info","message":"GET /api/chats/6a202da8e0929325f88615c7","timestamp":"2026-06-03T13:35:42.827Z"}
+{"level":"info","message":"GET /api/chats/6a202da8e0929325f88615c7/messages","timestamp":"2026-06-03T13:35:42.831Z"}
+{"level":"info","message":"GET /api/chats/6a202da8e0929325f88615c7","timestamp":"2026-06-03T13:35:42.835Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:35:43.549Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:35:43.557Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:35:45.917Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:35:45.924Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T13:35:50.930Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T13:35:52.378Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:35:53.639Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:35:53.645Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T13:35:56.521Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:35:57.421Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T13:35:57.430Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T13:36:02.481Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T13:36:14.310Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T13:36:17.666Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T13:36:18.202Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T13:36:18.618Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T14:00:49.923Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T14:00:49.946Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T14:00:49.946Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T14:00:49.946Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T14:00:49.964Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T14:01:08.114Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T14:01:08.189Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:01:08.200Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:01:08.216Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:01:08.233Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:01:12.006Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:01:12.988Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:01:20.742Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:01:26.358Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:01:29.812Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:01:31.861Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:01:32.937Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:01:32.946Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:01:39.806Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:01:47.183Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:01:49.284Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:01:49.296Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:01:52.249Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:01:52.258Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:02:01.336Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:02:01.343Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:02:01.348Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:02:01.349Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:02:01.359Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:02:01.365Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:02:06.171Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:02:06.177Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202da8e0929325f88615c7","timestamp":"2026-06-03T14:02:08.133Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202da8e0929325f88615c7","timestamp":"2026-06-03T14:02:08.135Z"}
+{"level":"info","message":"GET /api/chats/6a202da8e0929325f88615c7/messages","timestamp":"2026-06-03T14:02:08.141Z"}
+{"level":"info","message":"GET /api/chats/6a202da8e0929325f88615c7","timestamp":"2026-06-03T14:02:08.144Z"}
+{"level":"info","message":"GET /api/chats/6a202da8e0929325f88615c7/messages","timestamp":"2026-06-03T14:02:08.149Z"}
+{"level":"info","message":"GET /api/chats/6a202da8e0929325f88615c7","timestamp":"2026-06-03T14:02:08.151Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:02:10.198Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:02:10.209Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:02:47.856Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T14:04:18.160Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T14:04:18.180Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T14:04:18.180Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T14:04:18.180Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T14:04:18.202Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:04:18.741Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T14:04:25.123Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T14:04:25.143Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T14:04:25.143Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T14:04:25.144Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T14:04:25.156Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:04:25.270Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:04:34.298Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T14:04:35.119Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T14:04:35.135Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:04:35.152Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T14:04:39.429Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T14:04:39.513Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:04:39.520Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:04:39.529Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:04:39.539Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:04:39.557Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:04:48.603Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:04:50.751Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:04:51.879Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:05:23.714Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T14:07:38.724Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T14:07:38.746Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T14:07:38.746Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T14:07:38.746Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T14:07:38.759Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:07:38.792Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:07:50.912Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T14:07:51.747Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T14:07:51.764Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:07:51.782Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T14:07:57.893Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T14:07:57.962Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:07:57.968Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:07:57.973Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:07:57.982Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:07:57.996Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:08:04.213Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:08:05.752Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:08:05.761Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:08:14.661Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:08:16.186Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:08:16.193Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:08:26.339Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:08:27.868Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:08:27.875Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:09:12.427Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:09:13.950Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:09:13.958Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T14:09:14.473Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T14:09:14.475Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T14:09:14.479Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T14:09:14.481Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T14:09:14.489Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T14:09:14.491Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:09:18.218Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:09:18.226Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:09:26.280Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:09:27.794Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:09:27.801Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:17:03.732Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:17:03.739Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T14:17:03.742Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:17:03.747Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:17:03.753Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:17:03.754Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:17:03.760Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T14:17:55.070Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T14:17:55.092Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T14:17:55.092Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T14:17:55.093Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T14:17:55.108Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:17:55.276Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:18:07.186Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T14:18:07.886Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T14:18:07.899Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:18:07.906Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:18:07.922Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:18:07.929Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:18:14.628Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:18:14.641Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:18:14.645Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:18:16.151Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:18:16.160Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-03T14:18:21.601Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:18:21.611Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:18:21.616Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:18:23.126Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:18:23.135Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:33:20.533Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:33:20.542Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:33:23.901Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T14:33:29.865Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T14:33:29.936Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:33:29.946Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:33:29.952Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:33:29.956Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:33:38.365Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:33:38.372Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:33:44.567Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:33:44.568Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:33:44.577Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:33:44.579Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:33:44.585Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:33:44.590Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:33:47.416Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:33:47.417Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:33:47.418Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:33:47.422Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:33:47.427Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:33:47.430Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:36:57.744Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:36:57.746Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:36:57.748Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T14:37:27.793Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T14:37:27.813Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T14:37:27.814Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T14:37:27.814Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T14:37:27.827Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:37:28.016Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:37:40.956Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T14:37:41.615Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T14:37:41.630Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:37:41.645Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:37:41.649Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:37:41.684Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:37:41.687Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:37:41.703Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:37:41.710Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:37:45.487Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:37:45.496Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:37:57.843Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:37:57.844Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:37:57.854Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:37:57.857Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:37:57.863Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:37:57.868Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T14:38:11.628Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:38:15.456Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:38:15.467Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:38:58.267Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:38:58.267Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:38:58.275Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:38:58.277Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T14:38:58.283Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T14:38:58.287Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:39:00.503Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T14:39:00.509Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T14:39:01.338Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T14:39:01.339Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T14:39:01.348Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T14:39:01.349Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T14:39:01.358Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T14:39:01.360Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T14:39:04.819Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T14:50:28.447Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T15:55:31.251Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T15:55:31.286Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T15:55:31.286Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T15:55:31.286Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T15:55:31.303Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T15:55:40.517Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T15:55:40.600Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T15:55:40.615Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T15:55:40.624Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T15:55:40.641Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T15:55:44.717Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T15:55:44.722Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T15:55:44.724Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T15:55:44.727Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-03T15:55:44.733Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-03T15:55:44.737Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T15:55:49.712Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T15:55:49.721Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T15:55:51.779Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T15:55:51.780Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T15:55:51.787Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T15:55:51.790Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T15:55:51.797Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T15:55:51.799Z"}
+{"level":"info","message":"Mensaje enviado a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T15:56:07.621Z"}
+{"level":"info","message":"Mensaje enviado a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T15:56:29.096Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T15:56:36.566Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T16:02:35.761Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:02:35.784Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:02:35.784Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T16:02:35.784Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:02:35.797Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:02:36.787Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T16:02:52.524Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:02:52.547Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:02:52.547Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T16:02:52.548Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:02:52.561Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:02:52.592Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:02:59.415Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:03:00.240Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:03:00.254Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:03:00.265Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:03:00.267Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:03:00.289Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:03:00.292Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:03:00.297Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:03:00.309Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T16:03:10.112Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T16:05:45.174Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T16:05:46.674Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T16:12:42.024Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:12:42.050Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:12:42.050Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T16:12:42.051Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:12:42.064Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:12:42.801Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T16:15:04.000Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:15:04.022Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:15:04.022Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T16:15:04.023Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:15:04.035Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:15:04.799Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T16:15:58.223Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:15:58.245Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:15:58.246Z"}
+{"level":"info","message":"📄 Documentación Swagger (si configurada) en http://localhost:5001/api-docs","timestamp":"2026-06-03T16:15:58.246Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:15:58.258Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:15:58.791Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:18:50.197Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:18:50.870Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:18:50.883Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:18:50.894Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:18:50.897Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:18:50.916Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:18:50.923Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:18:50.925Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:18:50.928Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T16:30:02.321Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:30:02.345Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:30:02.345Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:30:02.357Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T16:30:18.825Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T16:30:18.905Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T16:30:18.918Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:30:18.933Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T16:30:18.949Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:30:23.825Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:30:23.826Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:30:23.833Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:30:23.835Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:30:23.845Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:30:23.847Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T16:30:31.681Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:30:31.700Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T16:35:31.029Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:35:31.050Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:35:31.050Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:35:31.062Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:35:31.805Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no configurada. El asistente IA no funcionará.","timestamp":"2026-06-03T16:35:46.668Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:35:46.689Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:35:46.690Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:35:46.702Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:35:48.799Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:35:55.086Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:35:55.779Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:35:55.792Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:35:55.802Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:35:55.808Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:35:55.828Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:35:55.839Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:35:55.841Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:35:55.844Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T16:36:06.831Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:36:06.849Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada en .env","timestamp":"2026-06-03T16:37:53.564Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:37:53.587Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:37:53.588Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:37:53.602Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:37:53.638Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:38:02.412Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:38:03.131Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:38:03.145Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:38:03.156Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:38:03.160Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:38:03.184Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:38:03.193Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:38:03.195Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:38:03.198Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:38:12.588Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:38:12.636Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:38:12.642Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:38:12.647Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:38:12.648Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:38:12.652Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:38:12.660Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:38:12.665Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:38:12.667Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:38:12.669Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:38:12.674Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:38:13.087Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:38:13.126Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:38:13.130Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:38:13.135Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:38:13.137Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:38:13.149Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:38:13.152Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:38:13.154Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:38:13.159Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T16:38:21.987Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:38:22.003Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T16:38:26.771Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T16:38:26.779Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:38:28.348Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada en .env","timestamp":"2026-06-03T16:38:49.326Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:38:49.350Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:38:49.350Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:38:49.364Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-03T16:39:05.267Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-03T16:39:05.345Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T16:39:05.361Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:39:05.374Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-03T16:39:05.390Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:39:07.617Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:39:07.622Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:39:07.624Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:39:07.627Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:39:07.641Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:39:07.643Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T16:39:19.842Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:39:19.863Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-06-03T16:40:58.964Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:40:58.985Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:40:58.987Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:40:58.998Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:40:59.821Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-06-03T16:41:31.465Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:41:31.487Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:41:31.487Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:41:31.505Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:41:34.803Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:41:44.900Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:41:45.569Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:41:45.582Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:41:45.589Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:41:45.592Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:41:45.602Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:41:45.612Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:41:45.617Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:41:45.620Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T16:44:45.083Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:44:45.103Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-06-03T16:58:50.444Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:58:50.467Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:58:50.468Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:58:50.479Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:58:50.811Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-06-03T16:58:54.412Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:58:54.435Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:58:54.435Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:58:54.450Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:58:55.805Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-06-03T16:59:06.752Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-03T16:59:06.775Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-03T16:59:06.775Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-03T16:59:06.788Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:59:06.849Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:59:13.573Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:59:14.360Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T16:59:14.373Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:59:14.381Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:59:14.384Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T16:59:14.402Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:59:14.410Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:59:14.411Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T16:59:14.415Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-03T16:59:27.826Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T16:59:27.845Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T17:03:46.178Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T17:04:43.272Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T17:04:43.280Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T17:04:43.300Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T17:04:43.304Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T17:04:43.327Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T17:04:43.329Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T17:04:43.333Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T17:04:43.363Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T17:04:47.600Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T17:07:55.516Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T17:07:55.768Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T17:07:56.131Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T17:07:56.138Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T17:07:56.165Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T17:07:56.171Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T17:07:56.198Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T17:07:56.218Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T17:07:56.279Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T17:07:56.308Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T17:08:51.704Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T17:10:54.346Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-03T17:10:54.356Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T17:10:54.407Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T17:10:54.410Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T17:10:54.427Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-03T17:10:54.431Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T17:10:54.435Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-03T17:10:54.453Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-03T17:10:56.978Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T10:26:10.614Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T10:48:44.594Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T10:48:46.057Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T10:49:00.865Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T10:49:02.060Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T10:50:04.903Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T11:36:21.848Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T11:36:44.930Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T11:36:45.024Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T11:36:45.028Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T11:36:45.035Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T11:36:45.038Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T11:36:45.049Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T11:36:45.053Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T11:36:45.055Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T11:36:45.065Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T11:49:56.497Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-06-04T12:30:50.502Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-04T12:30:50.536Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-04T12:30:50.537Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-04T12:30:50.554Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T12:35:42.105Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T12:35:42.138Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:35:42.148Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T12:35:42.156Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:35:42.186Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T12:38:01.848Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T12:38:01.852Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T12:38:01.856Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T12:38:01.857Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T12:38:01.879Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T12:38:01.892Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:38:05.464Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:38:05.472Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:38:06.515Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:38:06.516Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T12:38:06.523Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:38:06.524Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T12:38:06.530Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:38:06.533Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:38:10.549Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:38:10.550Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T12:38:10.555Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:38:10.558Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T12:38:10.565Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:38:10.569Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:38:11.488Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:38:11.495Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:38:19.531Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:38:19.531Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T12:38:19.539Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:38:19.541Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T12:38:19.545Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:38:19.548Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:38:22.383Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:38:22.391Z"}
+{"level":"info","message":"PUT /api/users/me","timestamp":"2026-06-04T12:38:28.362Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T12:38:28.391Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T12:38:28.395Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:38:29.899Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:38:29.906Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-06-04T12:48:10.322Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-04T12:48:10.348Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-04T12:48:10.348Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-04T12:48:10.361Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T12:48:10.474Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-06-04T12:48:25.186Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-04T12:48:25.211Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-04T12:48:25.211Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-04T12:48:25.222Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T12:48:26.204Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-06-04T12:48:39.027Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-04T12:48:39.049Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-04T12:48:39.050Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-04T12:48:39.061Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T12:48:39.238Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T12:49:11.425Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T12:49:12.078Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T12:49:12.089Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:49:12.096Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T12:49:12.108Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:49:12.115Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T12:49:14.021Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T12:49:14.023Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T12:49:14.024Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T12:49:14.027Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T12:49:14.037Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T12:49:14.039Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:49:19.031Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:49:19.037Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:49:25.723Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:49:25.723Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T12:49:25.733Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:49:25.735Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T12:49:25.740Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:49:25.743Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:49:28.539Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:49:28.540Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T12:49:28.542Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:49:28.543Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T12:49:28.548Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:49:28.551Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:55:08.092Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:55:08.093Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T12:55:08.099Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:55:08.101Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T12:55:08.106Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T12:55:08.110Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:55:09.568Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T12:55:09.575Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T12:55:11.010Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T12:55:11.011Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T12:55:11.015Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T12:55:11.017Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T12:55:11.024Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T12:55:11.027Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T13:01:47.208Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T13:01:47.209Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T13:01:47.211Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-06-04T13:01:56.545Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-04T13:01:56.565Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-04T13:01:56.566Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-04T13:01:56.578Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T13:01:56.765Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T13:02:15.735Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T13:02:16.374Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T13:02:16.385Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T13:02:16.392Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T13:02:16.394Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T13:02:16.409Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T13:02:16.415Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T13:02:16.416Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T13:02:16.417Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T13:02:19.980Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T13:02:19.988Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T13:02:21.136Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T13:02:21.137Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T13:02:21.143Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T13:02:21.145Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a/messages","timestamp":"2026-06-04T13:02:21.150Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T13:02:21.153Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T13:02:22.275Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T13:02:22.281Z"}
+{"level":"info","message":"POST /api/groups/6a202aad4a3626d5b794f90a/add-admin","timestamp":"2026-06-04T13:02:25.343Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T13:02:25.357Z"}
+{"level":"info","message":"POST /api/groups/6a202aad4a3626d5b794f90a/remove-admin","timestamp":"2026-06-04T13:02:27.721Z"}
+{"level":"info","message":"GET /api/chats/6a202aad4a3626d5b794f90a","timestamp":"2026-06-04T13:02:27.734Z"}
+{"level":"info","message":"POST /api/groups/6a202aad4a3626d5b794f90a/leave","timestamp":"2026-06-04T13:02:35.386Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T13:02:36.917Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T13:02:36.925Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T13:23:54.691Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-04T13:24:10.022Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-04T13:24:10.099Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T13:24:10.109Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T13:24:10.115Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T13:24:10.121Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T13:24:28.022Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T13:24:28.031Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-06-04T14:54:23.314Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-06-04T14:54:23.337Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-06-04T14:54:23.337Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-06-04T14:54:23.347Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T14:54:27.271Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T14:54:29.821Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T14:54:30.809Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T14:54:30.824Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T14:54:30.836Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T14:54:30.858Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T14:54:30.896Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T14:54:35.925Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T14:54:35.986Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T14:54:35.991Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T14:54:36.000Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T14:54:36.014Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T14:54:36.017Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T14:54:36.580Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T14:54:36.638Z"}
+{"level":"info","message":"GET /api/users/me","timestamp":"2026-06-04T14:54:36.642Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T14:54:36.655Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T14:54:36.663Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T14:54:36.667Z"}
+{"level":"info","message":"Socket desconectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T14:54:38.768Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2026-06-04T14:54:43.376Z"}
+{"level":"info","message":"User logged in: sofiasoraire13@gmail.com","timestamp":"2026-06-04T14:54:43.512Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T14:54:43.549Z"}
+{"level":"info","message":"Socket conectado: 6a1ee4f7b59586df53c0fb54","timestamp":"2026-06-04T14:54:43.556Z"}
+{"level":"info","message":"GET /api/chats","timestamp":"2026-06-04T14:54:43.576Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T14:54:45.529Z"}
+{"level":"info","message":"Usuario 6a1ee4f7b59586df53c0fb54 se unió a sala 6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T14:54:45.532Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T14:54:45.533Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T14:54:45.535Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T14:54:45.547Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T14:54:45.548Z"}
+{"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-04T14:55:07.282Z"}
+{"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T14:55:07.318Z"}
