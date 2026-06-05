@@ -34,26 +34,49 @@ console.log('Valor:', process.env.OPENAI_API_KEY);
 // Inicializar app
 const app = express();
 const server = http.createServer(app);
+
+// ======================
+// CONFIGURACIÓN CORS (obligatoria ANTES de las rutas)
+// ======================
+// Lista de orígenes permitidos (frontend en Vercel y desarrollo local)
+const allowedOrigins = [
+  process.env.CLIENT_URL,      // URL del frontend en producción (ej: https://...vercel.app)
+  'http://localhost:5173'       // desarrollo local
+].filter(Boolean);              // elimina valores undefined
+
+const corsOptions = {
+  origin: (origin, callback) => {
+    // Permitir solicitudes sin origen (Postman, curl, etc.)
+    if (!origin) return callback(null, true);
+    if (allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      console.warn(`🚫 CORS bloqueado para origen: ${origin}`);
+      callback(new Error(`Origen ${origin} no permitido por CORS`));
+    }
+  },
+  credentials: true,            // permite enviar cookies/tokens
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
+};
+
+app.use(cors(corsOptions));
+app.options('*', cors(corsOptions));   // manejar preflight
+
+// ======================
+// CONFIGURACIÓN DE SOCKET.IO (con CORS coherente)
+// ======================
 const io = new Server(server, {
   cors: {
-    origin: process.env.CLIENT_URL || 'http://localhost:5173',
+    origin: allowedOrigins,
     credentials: true,
-    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS']
+    methods: ['GET', 'POST', 'OPTIONS']
   }
 });
 
 // ======================
-// MIDDLEWARES GLOBALES
+// OTROS MIDDLEWARES GLOBALES
 // ======================
-
-app.use(cors({
-  origin: '*',
-  credentials: true,
-  methods: ['GET','POST','PUT','DELETE','OPTIONS'],
-  allowedHeaders: ['Content-Type','Authorization']
-}));
-app.options('*', cors());
-
 app.use(helmet());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -80,7 +103,7 @@ app.use('/api/groups', groupRoutes);
 app.use('/api/messages', messageRoutes);
 app.use('/api/ai', aiRoutes);
 
-// Ruta de salud
+// Ruta de salud (health check)
 app.get('/health', (req, res) => {
   res.status(200).json({ status: 'ok', timestamp: new Date() });
 });
@@ -101,7 +124,7 @@ mongoose.connect(process.env.MONGO_URI)
   });
 
 // ======================
-// MANEJO DE ERRORES
+// MANEJO DE ERRORES (siempre al final)
 // ======================
 app.use(errorHandler);
 
