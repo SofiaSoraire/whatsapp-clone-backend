@@ -11,6 +11,7 @@ export const createMessage = async (req, res) => {
     const populated = await message.populate('senderId', 'nickname');
     res.status(201).json(populated);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Error al enviar mensaje' });
   }
 };
@@ -23,6 +24,7 @@ export const getMessages = async (req, res) => {
       .sort('timestamp');
     res.json(messages);
   } catch (error) {
+    console.error(error);
     res.status(500).json({ message: 'Error al obtener mensajes' });
   }
 };
