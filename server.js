@@ -20,7 +20,6 @@ import aiRoutes from './routes/aiRoutes.js';
 // Importar middlewares y servicios
 import { errorHandler } from './middleware/errorHandler.js';
 import { logger } from './services/loggerService.js';
-import { setupSocket } from './sockets/socketHandler.js';
 
 // Obtener directorio actual (ES modules)
 const __filename = fileURLToPath(import.meta.url);
@@ -35,9 +34,7 @@ console.log('Valor:', process.env.OPENAI_API_KEY);
 const app = express();
 const server = http.createServer(app);
 
-// ======================
 // CONFIGURACIÓN CORS (obligatoria ANTES de las rutas)
-// ======================
 // Lista de orígenes permitidos (frontend en Vercel y desarrollo local)
 const allowedOrigins = [
   process.env.CLIENT_URL,      // URL del frontend en producción (ej: https://...vercel.app)
@@ -63,20 +60,8 @@ const corsOptions = {
 app.use(cors(corsOptions));
 app.options('*', cors(corsOptions));   // manejar preflight
 
-// ======================
-// CONFIGURACIÓN DE SOCKET.IO (con CORS coherente)
-// ======================
-const io = new Server(server, {
-  cors: {
-    origin: allowedOrigins,
-    credentials: true,
-    methods: ['GET', 'POST', 'OPTIONS']
-  }
-});
 
-// ======================
 // OTROS MIDDLEWARES GLOBALES
-// ======================
 app.use(helmet());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -93,9 +78,7 @@ app.use((req, res, next) => {
   next();
 });
 
-// ======================
 // RUTAS DE LA API
-// ======================
 app.use('/api/auth', authRoutes);
 app.use('/api/users', userRoutes);
 app.use('/api/chats', chatRoutes);
@@ -108,14 +91,10 @@ app.get('/health', (req, res) => {
   res.status(200).json({ status: 'ok', timestamp: new Date() });
 });
 
-// ======================
 // SOCKET.IO
-// ======================
 setupSocket(io);
 
-// ======================
 // CONEXIÓN A MONGODB
-// ======================
 mongoose.connect(process.env.MONGO_URI)
   .then(() => logger.info('✅ MongoDB connected'))
   .catch(err => {
@@ -123,14 +102,10 @@ mongoose.connect(process.env.MONGO_URI)
     process.exit(1);
   });
 
-// ======================
 // MANEJO DE ERRORES (siempre al final)
-// ======================
 app.use(errorHandler);
 
-// ======================
 // INICIO DEL SERVIDOR
-// ======================
 const PORT = process.env.PORT || 5001;
 server.listen(PORT, () => {
   logger.info(`🚀 Server running on port ${PORT}`);
