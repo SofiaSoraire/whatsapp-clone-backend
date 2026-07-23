@@ -1,10 +1,9 @@
 import express from 'express';
 import http from 'http';
-import { Server } from 'socket.io';
 import mongoose from 'mongoose';
 import cors from 'cors';
 import helmet from 'helmet';
-import dotenv from 'dotenv';
+import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import rateLimit from 'express-rate-limit';
@@ -25,21 +24,52 @@ import { logger } from './services/loggerService.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Cargar variables de entorno desde .env
-dotenv.config({ path: path.resolve(__dirname, '.env') });
-console.log('🔑 API Key cargada:', process.env.OPENAI_API_KEY ? 'Sí ✅' : 'No ❌');
-console.log('Valor:', process.env.OPENAI_API_KEY);
+// ========================================================
+// CARGA MANUAL DEL ARCHIVO .env (independiente de dotenv)
+// ========================================================
+try {
+  const envPath = path.resolve(__dirname, '.env');
+  if (fs.existsSync(envPath)) {
+    const envContent = fs.readFileSync(envPath, 'utf8');
+    const lines = envContent.split('\n');
+    for (const line of lines) {
+      const trimmed = line.trim();
+      if (trimmed && !trimmed.startsWith('#')) {
+        const [key, ...valueParts] = trimmed.split('=');
+        const value = valueParts.join('=').trim();
+        if (key) {
+          process.env[key.trim()] = value;
+        }
+      }
+    }
+    console.log('✅ Archivo .env cargado manualmente');
+  } else {
+    console.warn('⚠️ No se encontró el archivo .env en:', envPath);
+  }
+} catch (error) {
+  console.error('❌ Error al leer .env:', error);
+}
 
-// Inicializar app
+// Mostrar variables críticas (para depuración)
+console.log('🔍 MONGO_URI:', process.env.MONGO_URI || '❌ No definida');
+console.log('🔍 PORT:', process.env.PORT || '5001 (default)');
+console.log('🔍 CLIENT_URL:', process.env.CLIENT_URL || '❌ No definida');
+
+// ========================================================
+// INICIALIZAR APP
+// ========================================================
 const app = express();
 const server = http.createServer(app);
 
-// CONFIGURACIÓN CORS (obligatoria ANTES de las rutas)
-// Lista de orígenes permitidos (frontend en Vercel y desarrollo local)
+// ========================================================
+// CONFIGURACIÓN CORS (permite orígenes específicos y fallback)
+// ========================================================
 const allowedOrigins = [
-  process.env.CLIENT_URL,      // URL del frontend en producción (ej: https://...vercel.app)
-  'http://localhost:5173'       // desarrollo local
-].filter(Boolean);              // elimina valores undefined
+  process.env.CLIENT_URL,
+  'https://whatsapp-clone-frontend-xi.vercel.app',
+  'http://localhost:5173',
+  'https://whatsapp-clone-frontend-me06fh7xh-sofiasoraires-projects.vercel.app'
+].filter(Boolean);
 
 const corsOptions = {
   origin: (origin, callback) => {
@@ -52,33 +82,36 @@ const corsOptions = {
       callback(new Error(`Origen ${origin} no permitido por CORS`));
     }
   },
-  credentials: true,            // permite enviar cookies/tokens
+  credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
 };
 
 app.use(cors(corsOptions));
-app.options('*', cors(corsOptions));   // manejar preflight
+app.options('*', cors(corsOptions));
 
-
+// ========================================================
 // OTROS MIDDLEWARES GLOBALES
+// ========================================================
 app.use(helmet());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.use(rateLimit({
-  windowMs: 15 * 60 * 1000,
+  windowMs: 15 * 60 * 1000, // 15 minutos
   max: 100,
   message: 'Demasiadas peticiones desde esta IP, intente más tarde.'
 }));
 
-// Logging de todas las peticiones
+// Logging de todas las peticiones (para depuración)
 app.use((req, res, next) => {
   logger.info(`${req.method} ${req.url}`);
   next();
 });
 
+// ========================================================
 // RUTAS DE LA API
+// ========================================================
 app.use('/api/auth', authRoutes);
 app.use('/api/users', userRoutes);
 app.use('/api/chats', chatRoutes);
@@ -91,21 +124,25 @@ app.get('/health', (req, res) => {
   res.status(200).json({ status: 'ok', timestamp: new Date() });
 });
 
-// SOCKET.IO
-setupSocket(io);
-
+// ========================================================
 // CONEXIÓN A MONGODB
-mongoose.connect(process.env.MONGO_URI)
+// ========================================================
+const mongoURI = process.env.MONGO_URI || 'mongodb://localhost:27017/whatsapp';
+mongoose.connect(mongoURI)
   .then(() => logger.info('✅ MongoDB connected'))
   .catch(err => {
     logger.error('❌ MongoDB connection error:', err);
     process.exit(1);
   });
 
+// ========================================================
 // MANEJO DE ERRORES (siempre al final)
+// ========================================================
 app.use(errorHandler);
 
+// ========================================================
 // INICIO DEL SERVIDOR
+// ========================================================
 const PORT = process.env.PORT || 5001;
 server.listen(PORT, () => {
   logger.info(`🚀 Server running on port ${PORT}`);
