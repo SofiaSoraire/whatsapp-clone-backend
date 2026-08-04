@@ -7,6 +7,8 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import rateLimit from 'express-rate-limit';
+import swaggerUi from 'swagger-ui-express';
+import { specs } from './swagger/swagger.js';
 
 // Importar rutas
 import authRoutes from './routes/authRoutes.js';
@@ -98,8 +100,8 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.use(rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutos
-  max: 100,
+  windowMs: 60 * 1000, // 15 minutos
+  max: 300,
   message: 'Demasiadas peticiones desde esta IP, intente más tarde.'
 }));
 
@@ -118,6 +120,7 @@ app.use('/api/chats', chatRoutes);
 app.use('/api/groups', groupRoutes);
 app.use('/api/messages', messageRoutes);
 app.use('/api/ai', aiRoutes);
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs));
 
 // Ruta de salud (health check)
 app.get('/health', (req, res) => {

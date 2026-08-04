@@ -18,9 +18,13 @@ export const register = async (req, res) => {
     const user = await User.create({ email, password, nickname, verificationToken });
     
     // Auto-verificar sin enviar email
-    user.isVerified = true;
-    user.verificationToken = undefined;
-    await user.save();
+    // user.isVerified = true;
+    // user.verificationToken = undefined;
+    // await user.save();
+
+    // Enviar email real
+  await sendVerificationEmail(email, verificationToken);
+  return res.status(201).json({ message: 'Usuario registrado. Revisa tu email para verificar la cuenta.' });
     
     logger.info(`Usuario registrado y auto-verificado: ${email}`);
     res.status(201).json({ message: 'Usuario registrado correctamente. Ya puedes iniciar sesión.' });
