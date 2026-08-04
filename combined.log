@@ -1292,3 +1292,15 @@
 {"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219","timestamp":"2026-06-04T14:54:45.548Z"}
 {"level":"info","message":"POST /api/ai/ask","timestamp":"2026-06-04T14:55:07.282Z"}
 {"level":"info","message":"GET /api/chats/6a2022753bceadbb9b5aa219/messages","timestamp":"2026-06-04T14:55:07.318Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-07-23T16:32:38.872Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-07-23T16:32:38.895Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-07-23T16:32:38.896Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-07-23T16:32:38.914Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-07-23T16:35:01.206Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-07-23T16:35:01.224Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-07-23T16:35:01.224Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-07-23T16:35:01.234Z"}
+{"level":"warn","message":"⚠️ OPENAI_API_KEY no encontrada o inválida en .env","timestamp":"2026-07-23T16:35:09.487Z"}
+{"level":"info","message":"🚀 Server running on port 5001","timestamp":"2026-07-23T16:35:09.506Z"}
+{"level":"info","message":"📡 API disponible en http://localhost:5001/api","timestamp":"2026-07-23T16:35:09.506Z"}
+{"level":"info","message":"✅ MongoDB connected","timestamp":"2026-07-23T16:35:09.517Z"}
